@@ -1,5 +1,5 @@
 # Header
-navname: Bentham's Blog
+navname: Argen's Blog
 
 # navigatior items
 nav:
@@ -12,10 +12,10 @@ nav:
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: Argen Turatbek
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
+description: Aspiring Salesforce Developer.
 avatar: /image/avatar.jpeg
 
 # main menu navigation
@@ -34,7 +34,7 @@ links:
   # RSS:
   # AliPay:
   ZhiHu: https://www.zhihu.com/people/sirice
-  # LinkedIn:
+  LinkedIn: https://www.linkedin.com/in/argen-turatbek
   # FaceBook:
   # Twitter:
   # Skype:
@@ -43,13 +43,13 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  #Instagram:
+  #Reddit:
   # YouTube:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/argenturatbek
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
